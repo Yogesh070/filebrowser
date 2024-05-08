@@ -1,6 +1,7 @@
 {
   "buttons": {
     "cancel": "Abbrechen",
+    "clear": "Schließen",
     "close": "Schließen",
     "copy": "Kopieren",
     "copyFile": "Kopiere Datei",
@@ -36,8 +37,7 @@
     "toggleSidebar": "Seitenleiste anzeigen",
     "update": "Update",
     "upload": "Upload",
-    "openFile": "Datei öffnen",
-    "continue": "Fortfahren"
+    "openFile": "Datei öffnen"
   },
   "download": {
     "downloadFile": "Download Datei",
@@ -52,7 +52,6 @@
   },
   "files": {
     "body": "Body",
-    "clear": "Schließen",
     "closePreview": "Vorschau schließen",
     "files": "Dateien",
     "folders": "Ordner",
@@ -82,31 +81,6 @@
     "f1": "Diese Informationsseite",
     "f2": "Datei umbenennen",
     "help": "Hilfe"
-  },
-  "languages": {
-    "he": "עברית",
-    "hu": "Magyar",
-    "ar": "العربية",
-    "de": "Deutsch",
-    "en": "English",
-    "es": "Español",
-    "fr": "Français",
-    "is": "Icelandic",
-    "it": "Italiano",
-    "ja": "日本語",
-    "ko": "한국어",
-    "nlBE": "Dutch (Belgium)",
-    "pl": "Polski",
-    "pt": "Português",
-    "ptBR": "Português (Brasil)",
-    "ro": "Romanian",
-    "ru": "Русский",
-    "sk": "Slovenčina",
-    "svSE": "Swedish (Sweden)",
-    "tr": "Türkçe",
-    "ua": "Українська",
-    "zhCN": "中文 (简体)",
-    "zhTW": "中文 (繁體)"
   },
   "login": {
     "createAnAccount": "Account erstellen",
